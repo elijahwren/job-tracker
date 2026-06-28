@@ -4,6 +4,13 @@ A full stack MERN application to organize and track your entire job search pipel
 
 🔗 **Demo:** [https://job-tracker-ekwren.vercel.app](https://job-tracker-ekwren.vercel.app/)
 
+<img width="1440" height="900" alt="Screenshot 2026-06-28 at 3 40 31 PM" src="https://github.com/user-attachments/assets/31e8dc46-c719-4a4c-9b55-624014d3b3d2" />
+
+<img width="1440" height="900" alt="Screenshot 2026-06-28 at 3 42 35 PM" src="https://github.com/user-attachments/assets/455869b7-7bb2-43a2-847c-00ab67a335d0" />
+
+<img width="1440" height="900" alt="Screenshot 2026-06-28 at 3 43 57 PM" src="https://github.com/user-attachments/assets/353e387d-cf94-40e5-b860-11a0c5967a34" />
+
+
 ## Features
 
 - **Authentication** — Secure register and login with JWT tokens and bcrypt password hashing
