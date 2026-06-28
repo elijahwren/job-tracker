@@ -8,7 +8,7 @@ A full stack MERN application to organize and track your entire job search pipel
 
 - **Authentication** — Secure register and login with JWT tokens and bcrypt password hashing
 - **Application Management** — Add, edit, and delete job applications with full details
-- **Status Tracking** — Track every application through Saved → Applied → Phone Screen → Interview → Offer → Rejected
+- **Status Tracking** — Track every application through Saved, Applied, Phone Screen, Interview, Offer, and Rejected
 - **Dashboard** — Live stats showing total applications, response rate, interviews, and offers
 - **Status History** — Every status change is logged per application
 
